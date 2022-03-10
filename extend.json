@@ -1,0 +1,31 @@
+{
+   
+    "info": {
+        "url_png_icon_64x64": "https://photos.google.com/photo/AF1QipND_4v5wKvI-zMj9pFzK2T2brJ5UnkDlMQmGTBZ",
+        "url_png_logo": "https://photos.google.com/photo/AF1QipND_4v5wKvI-zMj9pFzK2T2brJ5UnkDlMQmGTBZ",
+        "location": "CT, USA",
+        "social": {
+            "twitter_handle": "",
+            "telegram_handle": "",
+            "facebook_handle": "",
+            "youtube_handle": "",
+            "twitch_handle": "",
+            "discord_handle": "",
+            "github_handle": ""
+        },
+        "company": {
+            "name": "K-Enterprise",
+            "addr": "",
+            "city": "",
+            "country": "USA",
+            "company_id": "",
+            "vat_id": ""
+        },
+        "about": {
+            "me": "Single Pool Operator",
+            "server": "Secure Cloud Servers",
+            "company": "K-Enterprise"
+        }
+    }
+}
+
